@@ -1,0 +1,9 @@
+.\objects\ipc.o: ..\Code\Lib\rt-thread\src\ipc.c
+.\objects\ipc.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\ipc.o: ..\Code\Lib\rt-thread\bsp\rtconfig.h
+.\objects\ipc.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\ipc.o: ..\Code\Lib\rt-thread\include\rtdebug.h
+.\objects\ipc.o: ..\Code\Lib\rt-thread\include\rtdef.h
+.\objects\ipc.o: D:\MDK5\KEIL_ARM\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\ipc.o: ..\Code\Lib\rt-thread\include\rtservice.h
+.\objects\ipc.o: ..\Code\Lib\rt-thread\include\rthw.h

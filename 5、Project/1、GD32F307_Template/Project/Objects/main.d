@@ -32,4 +32,4 @@
 .\objects\main.o: ..\Code\Lib\GD32F30x_standard_peripheral\Include\gd32f30x_misc.h
 .\objects\main.o: ..\Code\Lib\GD32F30x_standard_peripheral\Include\gd32f30x_enet.h
 .\objects\main.o: ..\Code\Lib\GD32F30x_standard_peripheral\Include\gd32f30x_exmc.h
-.\objects\main.o: ..\Code\Data\Inc\DataType.h
+.\objects\main.o: ..\Code\Core\Inc\Sys.h

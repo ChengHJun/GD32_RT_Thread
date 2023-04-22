@@ -1,0 +1,9 @@
+.\objects\idle.o: ..\Code\Lib\rt-thread\src\idle.c
+.\objects\idle.o: ..\Code\Lib\rt-thread\include\rthw.h
+.\objects\idle.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\idle.o: ..\Code\Lib\rt-thread\bsp\rtconfig.h
+.\objects\idle.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\idle.o: ..\Code\Lib\rt-thread\include\rtdebug.h
+.\objects\idle.o: ..\Code\Lib\rt-thread\include\rtdef.h
+.\objects\idle.o: D:\MDK5\KEIL_ARM\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\idle.o: ..\Code\Lib\rt-thread\include\rtservice.h

@@ -1,0 +1,9 @@
+.\objects\kservice.o: ..\Code\Lib\rt-thread\src\kservice.c
+.\objects\kservice.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\kservice.o: ..\Code\Lib\rt-thread\bsp\rtconfig.h
+.\objects\kservice.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\kservice.o: ..\Code\Lib\rt-thread\include\rtdebug.h
+.\objects\kservice.o: ..\Code\Lib\rt-thread\include\rtdef.h
+.\objects\kservice.o: D:\MDK5\KEIL_ARM\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\kservice.o: ..\Code\Lib\rt-thread\include\rtservice.h
+.\objects\kservice.o: ..\Code\Lib\rt-thread\include\rthw.h

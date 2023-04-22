@@ -1,0 +1,10 @@
+.\objects\board.o: ..\Code\Lib\rt-thread\bsp\board.c
+.\objects\board.o: D:\MDK5\KEIL_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\board.o: ..\Code\Lib\rt-thread\include\rthw.h
+.\objects\board.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\board.o: ..\Code\Lib\rt-thread\bsp\rtconfig.h
+.\objects\board.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\board.o: ..\Code\Lib\rt-thread\include\rtdebug.h
+.\objects\board.o: ..\Code\Lib\rt-thread\include\rtdef.h
+.\objects\board.o: D:\MDK5\KEIL_ARM\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\board.o: ..\Code\Lib\rt-thread\include\rtservice.h

@@ -1,0 +1,9 @@
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\src\scheduler.c
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\bsp\rtconfig.h
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\include\rtdebug.h
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\include\rtdef.h
+.\objects\scheduler.o: D:\MDK5\KEIL_ARM\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\include\rtservice.h
+.\objects\scheduler.o: ..\Code\Lib\rt-thread\include\rthw.h

@@ -398,19 +398,14 @@
               <FilePath>..\Code\Core\startup_gd32f30x_cl.s</FilePath>
             </File>
             <File>
-              <FileName>gd32f30x.h</FileName>
+              <FileName>Sys.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\Code\Core\Inc\gd32f30x.h</FilePath>
+              <FilePath>..\Code\Core\Inc\Sys.h</FilePath>
             </File>
             <File>
-              <FileName>gd32f30x_it.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\Code\Core\Inc\gd32f30x_it.h</FilePath>
-            </File>
-            <File>
-              <FileName>system_gd32f30x.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\Code\Core\Inc\system_gd32f30x.h</FilePath>
+              <FileName>Sys.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Code\Core\Src\Sys.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -547,13 +542,6 @@
         </Group>
         <Group>
           <GroupName>Data</GroupName>
-          <Files>
-            <File>
-              <FileName>DataType.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\Code\Data\Inc\DataType.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
           <GroupName>APP</GroupName>

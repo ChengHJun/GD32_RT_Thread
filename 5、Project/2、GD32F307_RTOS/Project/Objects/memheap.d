@@ -1,0 +1,9 @@
+.\objects\memheap.o: ..\Code\Lib\rt-thread\src\memheap.c
+.\objects\memheap.o: ..\Code\Lib\rt-thread\include\rthw.h
+.\objects\memheap.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\memheap.o: ..\Code\Lib\rt-thread\bsp\rtconfig.h
+.\objects\memheap.o: ..\Code\Lib\rt-thread\include\rtthread.h
+.\objects\memheap.o: ..\Code\Lib\rt-thread\include\rtdebug.h
+.\objects\memheap.o: ..\Code\Lib\rt-thread\include\rtdef.h
+.\objects\memheap.o: D:\MDK5\KEIL_ARM\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\memheap.o: ..\Code\Lib\rt-thread\include\rtservice.h
